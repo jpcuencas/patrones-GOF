@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/abstract_factory/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/abstract_factory/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/abstract_factory/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/abstract_factory/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/command/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/command/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/command/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/factory_method/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/factory_method/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/factory_method/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/factory_method/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_factory/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_factory/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_factory/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_factory/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_doublechecked/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_doublechecked/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_doublechecked/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_doublechecked/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_eager/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_eager/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_eager/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_eager/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_threadsafe/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_threadsafe/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_threadsafe/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton_threadsafe/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/state/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/state/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/state/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/template/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/template/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/template/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
